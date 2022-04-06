@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3934bd2-01ef-4eca-a13c-5c5dcfc17444": {
+      "ProjectGuid": "d3934bd2-01ef-4eca-a13c-5c5dcfc17444",
+      "DisplayName": "Taufiqurrahman_Test_Qoin",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5218ef4a-bf0e-42ad-99cb-efbd49b80611": {
+      "ProjectGuid": "5218ef4a-bf0e-42ad-99cb-efbd49b80611",
+      "DisplayName": "WorkerServiceRabbitMq",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
